@@ -1,6 +1,6 @@
 # Bike Sharing Demand Analysis & Prediction
 
-This repository contains a complete data science workflow for analyzing and predicting demand in a bike-sharing system. The project includes data cleaning, exploratory data analysis (EDA), clustering, machine learning modeling, weather integration, and operational insights such as bike redistribution estimation. All work is contained in the `project.ipynb` notebook.
+This repository contains a complete data science workflow for analyzing and predicting demand in a bike-sharing system. The project includes data cleaning, exploratory data analysis (EDA), clustering, machine learning modeling, weather integration, and operational insights such as bike redistribution estimation. All work is contained in the 'project.ipynb` notebook.
 
 ---
 
