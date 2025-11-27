@@ -15,7 +15,7 @@ The goal of this project is to understand how people use a bike-sharing system a
 ### **1. Data Cleaning**
 - Convert timestamps to datetime.
 - Remove missing values and irrelevant columns.
-- Remove extreme outliers in trip durations (99th percentile filtering).
+- Remove extreme outliers in trip durations.
 - Prepare station-level summaries for clustering.
 
 ### **2. Exploratory Data Analysis (EDA)**
